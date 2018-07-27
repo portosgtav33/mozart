@@ -1,0 +1,1 @@
+start cmd.exe /k "python C:\Users\user\Desktop\lobbygtavonline python\index.py"
