@@ -14,7 +14,7 @@ let queues = {};
 const opts = {
     part: 'snippet',
     maxResults: 3,
-    key: "AIzaSyA2d9zns6ccttzhXCa7OblG5v5VSr3_tLw"
+    key: "token api youtube"
 }
 
 const fonctions = {
